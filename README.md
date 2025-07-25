@@ -40,7 +40,7 @@ Replit (for deployment)
 
 Live Demo
 Visit the live app
-(Replace this with your actual Replit URL)
+[(https://replit.com/@obiekwekosi32/Text-Annotation-Tool ](https://replit.com/@obiekwekosi32/Text-Annotation-Tool)
 
 Project Structure
 main.py → Flask backend code
